@@ -19,6 +19,10 @@ This project builds a binary classification model that predicts:
 
 ---
 
+## Deployed Link
+
+https://churnpredictionmodel-3ec2frkv8uoqsvj5bkvz4n.streamlit.app
+
 ## Dataset
 
 Dataset: Telco Customer Churn Dataset
